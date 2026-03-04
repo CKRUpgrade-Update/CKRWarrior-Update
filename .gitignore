@@ -1,0 +1,9 @@
+*.py
+*.json
+build/
+dist/
+__pycache__/
+*.spec
+yaratik/
+altisim/
+icons/
